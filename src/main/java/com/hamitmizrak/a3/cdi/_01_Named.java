@@ -8,17 +8,17 @@ import javax.inject.Named;
 // pojo<Bean<managementBean<CdiBEan
 @Named
 @ApplicationScoped
-public class Computer implements Serializable {
+public class _01_Named implements Serializable {
 	private static final long serialVersionUID = -1806256027076814974L;
 	private String computerName;
 	
 	// parametresiz constructor
-	public Computer() {
+	public _01_Named() {
 		this.computerName = "Bilgisayar Adı 544515MXCCCR";
 	}
 	
 	// parametreli constructor
-	public Computer(String computerName) {
+	public _01_Named(String computerName) {
 		this.computerName = computerName;
 	}
 	
