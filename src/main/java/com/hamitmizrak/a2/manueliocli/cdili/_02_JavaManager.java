@@ -1,4 +1,4 @@
-package com.hamitmizrak.a2.iocli.cdili;
+package com.hamitmizrak.a2.manueliocli.cdili;
 
 import javax.inject.Inject;
 
