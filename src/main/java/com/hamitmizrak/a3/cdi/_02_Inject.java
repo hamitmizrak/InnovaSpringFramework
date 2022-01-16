@@ -20,4 +20,11 @@ public class _02_Inject implements Serializable {
 		return tuketenList;
 	}
 	
+	@Inject
+	private String resultInject;
+	
+	public String getResultInject() {
+		return resultInject;
+	}
+	
 }

@@ -24,4 +24,9 @@ public class _03_Produces implements Serializable {
 		return listem;
 	}
 	
+	@Produces
+	private String result() {
+		return "Nasılsınız";
+	}
+	
 }
