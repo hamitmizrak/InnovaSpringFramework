@@ -1,4 +1,4 @@
-package com.hamitmizrak.a1.iocli.cdisiz;
+package com.hamitmizrak.a2.iocli.cdili;
 
 public class _02_Java17 implements _01_JavaVersion {
 	
