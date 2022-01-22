@@ -1,4 +1,4 @@
-package com.hamitmizrak.b1.interceptor;
+package com.hamitmizrak.b1.interceptorx;
 
 import java.io.Serializable;
 

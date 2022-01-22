@@ -1,4 +1,4 @@
-package com.hamitmizrak.b1.interceptor;
+package com.hamitmizrak.b1.interceptorx;
 
 // bu metotda kesmeler meydana gelecek
 @_2_YolKesiciInterface

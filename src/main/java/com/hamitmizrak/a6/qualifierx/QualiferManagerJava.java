@@ -1,4 +1,4 @@
-package com.hamitmizrak.a6.qualifier;
+package com.hamitmizrak.a6.qualifierx;
 
 import java.io.Serializable;
 

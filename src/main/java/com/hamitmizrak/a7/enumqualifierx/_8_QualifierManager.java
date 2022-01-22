@@ -1,4 +1,4 @@
-package com.hamitmizrak.a7.enumqualifier;
+package com.hamitmizrak.a7.enumqualifierx;
 
 import javax.enterprise.context.ApplicationScoped;
 import javax.inject.Inject;

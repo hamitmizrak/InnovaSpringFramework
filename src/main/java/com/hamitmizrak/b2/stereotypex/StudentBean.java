@@ -1,4 +1,4 @@
-package com.hamitmizrak.b2.stereotype;
+package com.hamitmizrak.b2.stereotypex;
 
 @InnovaMultipleAnontaiton
 // Stereotype çok Anotation teke indirir.
@@ -13,5 +13,6 @@ public class StudentBean {
 	public void setName(String name) {
 		this.name = name;
 	}
+	// Database: Mysql,MariaDb, Mssql,postgresql
 	
 }

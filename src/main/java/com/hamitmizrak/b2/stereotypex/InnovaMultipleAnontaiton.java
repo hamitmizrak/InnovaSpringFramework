@@ -1,4 +1,4 @@
-package com.hamitmizrak.b2.stereotype;
+package com.hamitmizrak.b2.stereotypex;
 
 import static java.lang.annotation.ElementType.FIELD;
 import static java.lang.annotation.ElementType.METHOD;

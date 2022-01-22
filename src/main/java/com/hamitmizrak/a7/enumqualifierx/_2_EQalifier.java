@@ -1,4 +1,4 @@
-package com.hamitmizrak.a7.enumqualifier;
+package com.hamitmizrak.a7.enumqualifierx;
 
 import static java.lang.annotation.ElementType.FIELD;
 import static java.lang.annotation.ElementType.METHOD;

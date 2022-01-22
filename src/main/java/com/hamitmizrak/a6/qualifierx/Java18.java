@@ -1,4 +1,4 @@
-package com.hamitmizrak.a6.qualifier;
+package com.hamitmizrak.a6.qualifierx;
 
 @QualifierCokluSecim
 public class Java18 implements IJavaVersion {

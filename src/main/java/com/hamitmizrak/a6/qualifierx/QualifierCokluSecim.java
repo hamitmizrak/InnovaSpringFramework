@@ -1,4 +1,4 @@
-package com.hamitmizrak.a6.qualifier;
+package com.hamitmizrak.a6.qualifierx;
 
 import static java.lang.annotation.ElementType.FIELD;
 import static java.lang.annotation.ElementType.METHOD;

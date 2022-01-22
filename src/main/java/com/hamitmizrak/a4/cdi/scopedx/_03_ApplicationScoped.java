@@ -1,4 +1,4 @@
-package com.hamitmizrak.a4.cdi.scoped;
+package com.hamitmizrak.a4.cdi.scopedx;
 
 import java.io.Serializable;
 

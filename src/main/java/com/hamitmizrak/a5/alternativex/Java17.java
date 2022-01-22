@@ -1,4 +1,4 @@
-package com.hamitmizrak.a5.alternative;
+package com.hamitmizrak.a5.alternativex;
 
 import javax.enterprise.inject.Alternative;
 
